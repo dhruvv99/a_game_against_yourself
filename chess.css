@@ -1,0 +1,33 @@
+body{
+    background:
+  }
+  h1{
+    text-align:center;
+  }
+  footer{
+    font-size:20px;
+    text-align:right;
+  }
+  #chessboard{
+    height:480px;
+    width:480px;
+    margin:auto;
+    display:flex;
+    flex-wrap:wrap;
+    align-content:flex-start;
+    padding:10px;
+    border:3px solid black;
+    background:black;
+   }
+  #white{
+    height:12%;
+    width:12%;
+    background:#E5CB90;
+    border: 1px solid black;
+  }
+  #black{
+    height:12%;
+    width :12%;
+    background:#964B00;
+    border: 1px solid black;
+  }
